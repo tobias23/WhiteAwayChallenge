@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WhiteAwayChallenge/static/css/main.e025e02e.chunk.css",
+    "main.js": "/WhiteAwayChallenge/static/js/main.118e504e.chunk.js",
+    "main.js.map": "/WhiteAwayChallenge/static/js/main.118e504e.chunk.js.map",
+    "runtime-main.js": "/WhiteAwayChallenge/static/js/runtime-main.e3adf3e7.js",
+    "runtime-main.js.map": "/WhiteAwayChallenge/static/js/runtime-main.e3adf3e7.js.map",
+    "static/js/2.5f6caa3b.chunk.js": "/WhiteAwayChallenge/static/js/2.5f6caa3b.chunk.js",
+    "static/js/2.5f6caa3b.chunk.js.map": "/WhiteAwayChallenge/static/js/2.5f6caa3b.chunk.js.map",
+    "index.html": "/WhiteAwayChallenge/index.html",
+    "precache-manifest.8e98f1b6991d6f6358d966fd1eba87a5.js": "/WhiteAwayChallenge/precache-manifest.8e98f1b6991d6f6358d966fd1eba87a5.js",
+    "service-worker.js": "/WhiteAwayChallenge/service-worker.js",
+    "static/css/main.e025e02e.chunk.css.map": "/WhiteAwayChallenge/static/css/main.e025e02e.chunk.css.map",
+    "static/js/2.5f6caa3b.chunk.js.LICENSE.txt": "/WhiteAwayChallenge/static/js/2.5f6caa3b.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/WhiteAwayChallenge/static/media/logo.583ec1b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3adf3e7.js",
+    "static/js/2.5f6caa3b.chunk.js",
+    "static/css/main.e025e02e.chunk.css",
+    "static/js/main.118e504e.chunk.js"
+  ]
+}
